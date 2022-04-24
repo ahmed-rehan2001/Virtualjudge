@@ -52,4 +52,5 @@ int main() {
 		good ? cout << "No suspicious bugs found!\n"
 			 : cout << "Suspicious bugs found!\n";
 	}
+	
 }
